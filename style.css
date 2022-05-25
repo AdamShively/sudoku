@@ -1,0 +1,44 @@
+.guesses-text-field {
+	-fx-background-color: white;
+	-fx-text-box-border: transparent;
+	-fx-focus-color: transparent;	 
+	-fx-background-insets: 0;
+	-fx-background-radius: 0, 0, 0, 0;
+	-fx-padding: 2 2 2 2;
+}
+
+.answers-text-field {
+	-fx-background-color: white;
+	-fx-alignment: center;
+	-fx-font-size: 20px;
+	-fx-text-box-border: transparent;
+	-fx-background-insets: 0;
+	-fx-focus-color: transparent;
+	-fx-background-radius: 0, 0, 0, 0;
+	-fx-padding: 2 2 2 2;
+}
+
+.main-grid-pane {
+	-fx-border-style: solid inside;
+    -fx-border-width: 20;
+    -fx-border-insets: 10;
+    -fx-border-radius: 0;
+    -fx-border-color: blue;
+}
+
+.puzzle-label {
+	-fx-text-fill: white;
+	-fx-font-weight: bold;	
+	-fx-font-size: 16;
+}
+
+.vbox {
+	-fx-background-color: black;
+	-fx-border-radius: 0;
+	-fx-border-insets: 0;
+	 -fx-alignment: center ;
+}
+
+.hbox {
+	 -fx-alignment: center ;
+}
