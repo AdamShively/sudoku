@@ -5,7 +5,7 @@
 * @version 1.0
 * @since   02-17-2022
 */
-package sudoku;
+
 import java.util.ArrayList;
 import java.util.function.UnaryOperator;
 
