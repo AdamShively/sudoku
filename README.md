@@ -1,4 +1,4 @@
-# sudoku
+# Sudoku Game
 A sudoku game and solver.
 Follows traditional rules of sudoku.
 
