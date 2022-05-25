@@ -6,13 +6,11 @@
 * @since   02-17-2022
 */
 
-package sudoku;
-
-/**
- * Represents a position on the board.
- */
 public class Solver {
 	
+	/**
+ 	* Represents a position on the board.
+ 	*/
 	private class Position {
 		private int row;	//Holds row for empty spot.
 		private int col;	//Holds column for empty spot.
