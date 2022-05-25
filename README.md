@@ -5,5 +5,5 @@ Follows traditional rules of sudoku.
 # To-Use
 Run SudokuGUI.java
 
-#Video-Demo
+# Video-Demo
 https://youtu.be/ve35ZHQfT8A
